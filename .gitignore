@@ -1,3 +1,16 @@
 build/
 /tags
 /bazel-*
+
+## SGE
+bin/
+bin-int/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj
+*.vcxproj.filters
